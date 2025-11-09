@@ -1,0 +1,102 @@
+[
+  {
+    "title": "MongoDB Basics",
+    "author": "John Doe",
+    "genre": "Technology",
+    "published_year": 2021,
+    "price": 29.99,
+    "in_stock": true,
+    "pages": 350,
+    "publisher": "Tech Press"
+  },
+  {
+    "title": "Learning JavaScript",
+    "author": "Jane Smith",
+    "genre": "Programming",
+    "published_year": 2019,
+    "price": 25.99,
+    "in_stock": true,
+    "pages": 420,
+    "publisher": "Code Press"
+  },
+  {
+    "title": "Python for Data Science",
+    "author": "Alice Brown",
+    "genre": "Data Science",
+    "published_year": 2020,
+    "price": 34.5,
+    "in_stock": true,
+    "pages": 480,
+    "publisher": "Data Press"
+  },
+  {
+    "title": "Advanced MongoDB",
+    "author": "John Doe",
+    "genre": "Technology",
+    "published_year": 2018,
+    "price": 39.99,
+    "in_stock": false,
+    "pages": 400,
+    "publisher": "Tech Press"
+  },
+  {
+    "title": "React in Action",
+    "author": "Mark Lee",
+    "genre": "Web Development",
+    "published_year": 2022,
+    "price": 27.5,
+    "in_stock": true,
+    "pages": 350,
+    "publisher": "Web Press"
+  },
+  {
+    "title": "Node.js Essentials",
+    "author": "Jane Smith",
+    "genre": "Programming",
+    "published_year": 2021,
+    "price": 31.99,
+    "in_stock": true,
+    "pages": 390,
+    "publisher": "Code Press"
+  },
+  {
+    "title": "Machine Learning 101",
+    "author": "Alice Brown",
+    "genre": "Data Science",
+    "published_year": 2020,
+    "price": 36.0,
+    "in_stock": true,
+    "pages": 500,
+    "publisher": "Data Press"
+  },
+  {
+    "title": "CSS Secrets",
+    "author": "Mark Lee",
+    "genre": "Web Development",
+    "published_year": 2017,
+    "price": 22.99,
+    "in_stock": false,
+    "pages": 300,
+    "publisher": "Web Press"
+  },
+  {
+    "title": "Database Design",
+    "author": "John Doe",
+    "genre": "Technology",
+    "published_year": 2015,
+    "price": 41.5,
+    "in_stock": true,
+    "pages": 450,
+    "publisher": "Tech Press"
+  },
+  {
+    "title": "Full Stack Development",
+    "author": "Jane Smith",
+    "genre": "Programming",
+    "published_year": 2022,
+    "price": 33.99,
+    "in_stock": true,
+    "pages": 470,
+    "publisher": "Code Press"
+  }
+]
