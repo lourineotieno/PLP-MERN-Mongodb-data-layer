@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 📚 PLP MongoDB Assignment – Bookstore Database
 
 ## 🧠 Objective
@@ -97,3 +98,6 @@ Complete all the exercises in this assignment and push your code to GitHub using
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
 >>>>>>> 0fcd1a6b59e5934a6c57cfca568ccf5922ad1d48
+=======
+# PLP-MERN-Mongodb-data-layer
+>>>>>>> 740cfc1918a7f15f06df1557e5f30be422a3c833
